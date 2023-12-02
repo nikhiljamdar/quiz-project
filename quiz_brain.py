@@ -20,7 +20,7 @@ class Brain:
             print("correct answer")
         else:
             print("wrong answer")
-        print(f"The correct answer :{correct_answer}.")
+        print(f"The correct answer was:{correct_answer}.")
         print(f"Your current score :{self.score}/{self.question_number} ")
         print("\n")
 
